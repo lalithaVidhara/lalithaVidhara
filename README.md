@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21270
-Fork on GitHub
-6651
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Lalitha Sri Vidhara Samarappulige</h1>
 <h3 align="center">Undergraduate in Information Systems | Exploring Technology</h3>
 
